@@ -1,0 +1,23 @@
+cognito
+cloudtrail log  integrity
+aws beanstalk
+opswork - puppet and chef
+aws codecomitt - like github
+aws codepipeline - ci/cd
+aws application discovery service
+aws database migration service
+
+
+4:58 PM: AWS Security Best Practices whitepaper - https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf?refid=em_
+AWS Well-Architected Framework whitepaper - https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+Architecting for the Cloud AWS Best Practices whitepaper - https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf 
+Practicing Continuous Integration and Continuous Delivery on AWS Accelerating Software Delivery with DevOps whitepaper - https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf 
+
+
+Microservices on AWS whitepaper - https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf 
+Amazon Web Services: Overview of Security Processes whitepaper - https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf 
+Using Amazon Web Services for Disaster Recovery whitepaper - https://d36cz9buwru1tt.cloudfront.net/AWS_Disaster_Recovery.pdf 
+AWS Documentation for services, including but not limited to compute, management tools, storage, networking and content delivery, analytics, database, security, identity and compliance, and application integration web-pages  - https://docs.aws.amazon.com/index.html#lang/en_us 
+AWS Architecture Center web-pages - https://aws.amazon.com/architecture/
+
+
